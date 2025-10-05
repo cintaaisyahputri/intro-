@@ -80,8 +80,7 @@ Mau kolab proyek atau diskusi coding? Yuk connect!
 
 ---
 
-**© 2025 Cinta Aisyah Putri. Dibuat dengan ❤️, kode, dan violin strings.**  
-*(Hover efek: Semua link footer hover ke warna --peach: #ffe6a7ff untuk konsistensi – coba di repo live!)*  
+**© 2025 Cinta Aisyah Putri.**   
 
 <style>
 :root {
