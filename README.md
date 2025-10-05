@@ -82,13 +82,3 @@ Mau kolab proyek atau diskusi coding? Yuk connect!
 
 **© 2025 Cinta Aisyah Putri.**   
 
-<style>
-:root {
-  --falu-red: #6f1d1bff;
-  --lion: #bb9457ff;
-  --bistre: #432818ff;
-  --brown: #99582aff;
-  --peach: #ffe6a7ff;
-}
-a:hover { color: var(--peach) !important; }
-</style>
