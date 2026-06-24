@@ -1,7 +1,3 @@
-I'll craft a complete, ready-to-use GitHub profile README.md with that vintage old-times aesthetic. Let me write it to a file for you.
-Your vintage-themed GitHub profile README.md is ready! Here's what's inside:
-
----
 
 <div align="center">
 
